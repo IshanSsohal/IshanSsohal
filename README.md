@@ -12,9 +12,6 @@
   - [Deployment Two Tier Web Application Terraform Ansible GithubActions](https://github.com/IshanSsohal/Deployment-Two-Tier-Web-Application--Terraform-Ansible-Github-Actions)
 <h2>📺 Popular YouTube Videos</h2>
 
-
-## 📺 Popular YouTube Videos:
-
 ## 🤳 Connect with Me:
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/yourchannel)
