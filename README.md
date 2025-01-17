@@ -3,9 +3,9 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Bulk User Creation]
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Serverless W3S Website Scrapper]
 
 <h2>📺 Popular YouTube Videos</h2>
 
