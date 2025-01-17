@@ -12,8 +12,57 @@
   - [Deployment Two Tier Web Application - Terraform, Ansible, GitHub Actions](https://github.com/IshanSsohal/Deployment-Two-Tier-Web-Application--Terraform-Ansible-Github-Actions)
   - [Multi-env-infrastructure-Terraform](https://github.com/IshanSsohal/Multi-env-infrastructure-Terraform)
 
+# 🛠 Tools
 
-<h2>📺 Popular YouTube Videos</h2>
+### 🔗 Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-2C2D72?style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netcat-00FFFF?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</div>
+
+### 🛡 Vulnerability Assessment & Penetration Testing
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-00C8FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-OpenVAS-2C2D72?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Metasploit-444444?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF6600?style=for-the-badge" />
+</div>
+
+### 🕵 Threat Intelligence
+<div>
+    <img src="https://img.shields.io/badge/-MISP-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-OpenCTI-464646?style=for-the-badge&logoColor=white" />
+</div>
+
+### ⚙️ Incident Response & Case Management
+<div>
+    <img src="https://img.shields.io/badge/-TheHive-F5792A?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-DFIR--IRIS-4A90E2?style=for-the-badge" />
+</div>
+
+### 📊 SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-4B5563?style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Graylog-464646?style=for-the-badge&logo=Graylog&logoColor=white" />
+</div>
+
+### ☁️ AWS
+<div>
+    <img src="https://img.shields.io/badge/-AWS_VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS_IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS_CloudWatch-00BFFF?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS_CloudTrail-00BFFF?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS_Systems_Manager-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
+
+# 🎓 Certifications
+- **Certified Ethical Hacker (CEH)**
+- **CompTIA Security+**
+- **Microsoft Certified: Azure Fundamentals**
+- **Certified in Cybersecurity (CC)**
+
 
 ## 🤳 Connect with Me:
 
