@@ -12,6 +12,9 @@
   - [Deployment Two Tier Web Application - Terraform, Ansible, GitHub Actions](https://github.com/IshanSsohal/Deployment-Two-Tier-Web-Application--Terraform-Ansible-Github-Actions)
   - [Multi-env-infrastructure-Terraform](https://github.com/IshanSsohal/Multi-env-infrastructure-Terraform)
 
+- **Two-Tier Web App Deployment-Kubernetes-CI/CD**
+  - [Two-tier Web App Deployment – CI/CD and Kubernetes](https://github.com/IshanSsohal/Two-tier-web-app-deployment---CICD-and-Kubernetes)
+
 # 🛠 Tools
 
 ### 🔗 Network
