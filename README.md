@@ -1,11 +1,14 @@
 <h1>Hi, I'm Ishan! <br/><a href="https://github.com/IshanSsohal/IshanSsohal">Programmer</a>, <a href="https://www.linkedin.com/in/ishansohal/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
-- <b>Threat Intelligence & SIEM</b>
+
+- **Threat Intelligence & SIEM**
   - [ThreatPulse – Azure Threat Intelligence Pipeline](https://github.com/IshanSsohal/AzureThreatPulse)
-- <b>PowerShell</b>
+
+- **PowerShell**
   - [Active Directory Bulk User Creation]
-- <b>Python</b>
+
+- **Python**
   - [Serverless W3S Website Scrapper](https://github.com/IshanSsohal/Serverless-W3Scrapper)
 
 ## ☁️ Cloud Computing Projects:
