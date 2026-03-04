@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - **Threat Intelligence & SIEM**
-  - [ThreatPulse – Azure Threat Intelligence Pipeline](https://github.com/IshanSsohal/AzureThreatPulse)
+  - [ThreatPulse – Azure Threat Intelligence Pipeline](https://github.com/IshanSsohal/ThreatPulse)
 
 - **PowerShell**
   - [Active Directory Bulk User Creation]
